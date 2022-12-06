@@ -11,7 +11,7 @@ you are just two steps back to send mail to your favourite person ...check below
   
   and run command in terminal 
   
-  node app.js
+  node app.js and check on browser
   
   That's it.
   
